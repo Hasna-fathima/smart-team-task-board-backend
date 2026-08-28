@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "install": "npm install --prefix backend",
+    "build": "npm run build --prefix backend",
+    "start": "npm start --prefix backend"
+  }
+}
